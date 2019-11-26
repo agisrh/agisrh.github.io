@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 26/11/2019 04:02
+  	Creation date: 26/11/2019 04:09
   	*/
 
 @font-face {
@@ -30,6 +30,4 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-android:before { content: "\f100"; }
-.flaticon-web-programming:before { content: "\f101"; }
-.flaticon-paint-palette:before { content: "\f102"; }
+.flaticon-cloud:before { content: "\f100"; }
