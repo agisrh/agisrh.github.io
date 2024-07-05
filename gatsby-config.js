@@ -1,7 +1,6 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix:'/resume',
   siteMetadata: {
     title: 'Agis R Herdiana',
     description:'Lets innovate and build something amazing together!',
